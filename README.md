@@ -30,17 +30,17 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ### Global Changes
 
-Colors: Modified the color scheme for all elements across the site to align with my aesthetic preferences.
-Text: Replaced placeholder text with personalized content for all pages.
-Transitions: Updated transitions for a smoother and more dynamic visual experience.
+- Colors: Modified the color scheme for all elements across the site to align with my aesthetic preferences.
+- Text: Replaced placeholder text with personalized content for all pages.
+- Transitions: Updated transitions for a smoother and more dynamic visual experience.
 
 ### Homepage
 
-Modified the text and color scheme.
-Updated the buttons:
-"View My Work": Redirects to the Portfolio page.
-"Contact Me": Redirects to the Contact page.
-Linked the social media stickers (e.g., LinkedIn) to their respective profiles.
+- Modified the text and color scheme.
+- Updated the buttons:
+  - "View My Work": Redirects to the Portfolio page.
+  - "Contact Me": Redirects to the Contact page.
+- Linked the social media stickers (e.g., LinkedIn) to their respective profiles.
 
 ### About Page
 Customized the text, photo, and overall color scheme, including every element in the brain diagram, editing each section individually.
@@ -57,21 +57,23 @@ Adjusted zones to prevent overlapping for longer text entries.
 
 ### Portfolio Page
 
-Replaced the example projects with my own, including:
-Support for videos with autoplay and mute functionality to showcase projects in greater detail.
-Added an interactive feature for the POGODO project:
-On hover, a "View More" button appears, redirecting users to a dedicated page providing detailed information about the project. This page was coded entirely from scratch without using a template.
-Included an option at the end of the page to download my CV.
+- Replaced the example projects with my own, including:
+- Support for videos with autoplay and mute functionality to showcase projects in greater detail.
+- Added an interactive feature for the POGODO project:
+- On hover, a "View More" button appears, redirecting users to a dedicated page providing detailed information about the project. This page was coded entirely from scratch without using a template.
+- Included an option at the end of the page to download my CV.
 
 ### Contact Page
-Customized the text and integrated a functional contact form using EmailJS:
-Created an email template.
-Linked form inputs to the email template to enable users to send me messages directly from the website.
-Technologies Used
-Framework: Next.js
-Styling: Tailwind CSS
-Animation: Framer Motion
-Email Service: EmailJS
+- Customized the text and integrated a functional contact form using EmailJS:
+- Created an email template.
+- Linked form inputs to the email template to enable users to send me messages directly from the website.
+
+
+### Technologies Used
+- **Framework** : Next.js
+- **Styling**: Tailwind CSS
+- **Animation**: Framer Motion
+- **Email Service**: EmailJS
 
 
 
