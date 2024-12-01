@@ -43,17 +43,17 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 - Linked the social media stickers (e.g., LinkedIn) to their respective profiles.
 
 ### About Page
-Customized the text, photo, and overall color scheme, including every element in the brain diagram, editing each section individually.
-Added a "Download CV" button:
-Allows users to view and download my CV directly from the website.
-Reorganized the Skills section:
-Divided skills into categorized sections.
-Improved the layout to ensure the text no longer overlaps or extends outside the skill boxes when hovering.
-Enhanced the Experience section:
-Divided experiences into distinct sections for better readability.
-Fixed alignment issues in the timeline:
-Ensured text and cards align properly.
-Adjusted zones to prevent overlapping for longer text entries.
+- Customized the text, photo, and overall color scheme, including every element in the brain diagram, editing each section individually.
+- Added a "Download CV" button:
+- Allows users to view and download my CV directly from the website.
+- Reorganized the Skills section:
+- Divided skills into categorized sections.
+- Improved the layout to ensure the text no longer overlaps or extends outside the skill boxes when hovering.
+- Enhanced the Experience section:
+  - Divided experiences into distinct sections for better readability.
+- Fixed alignment issues in the timeline:
+  - Ensured text and cards align properly.
+  - Adjusted zones to prevent overlapping for longer text entries.
 
 ### Portfolio Page
 
